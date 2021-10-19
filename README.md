@@ -30,6 +30,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 4| Image-Converter        | Converts image to sketch | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Image-Converter) |
 5| Alarm-Clock        | Console based Alarm clock and remainder which plays sound and shows message as user directed | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Alarm-Clock) |
 5| Audio-to-text        | Transcribes speech from inputted audio file using PocketSphinx. | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Audio-to-text) |
+5| Web-Map        | Interactive Web map for searching volcanoes and population | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Web-Map) |
 
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
