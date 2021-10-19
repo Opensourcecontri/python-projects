@@ -9,4 +9,4 @@ also, one can enable and disable the Volcano or the Population layer + Added Lay
 
 Access Here - [Map](https://ojasbarawal.github.io/Web-map/)
 
-
+![Image](thumbnail.png)
