@@ -28,6 +28,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 2| Caesar-Cipher        | script to encode and decode | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Caesar-Cipher) |
 3| Check-System-Usage        | Checks free space percentage and average CPU usage | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Check-System-Usage) |
 4| Image-Converter        | Converts image to sketch | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Image-Converter) |
+5| Audio-to-text        | Transcribes speech from inputted audio file using PocketSphinx. | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Audio-to-text) |
 
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
