@@ -33,6 +33,7 @@ Once you are done working on your script edit this `README.md` file and add the 
 7| Web-Map        | Interactive Web map for searching volcanoes and population | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Web-Map) |
 8| Hangman-Game        | A fun to play Hangman Game with GUI | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Hangman-Game) |
 9| Auto-Backup        | Backups the folder as given by yourself as a path in the input. Run the script to get a backup in zip format. | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/Auto-Backup) |
+10| Meta Data Extractor        | Extracts Meta Data of Image | [Find me here](https://github.com/Opensourcecontri/python-projects/tree/main/scripts/image-metadata) |
 
 
 ### Good Luck and don't forget to have fun with Open Source 🚀
