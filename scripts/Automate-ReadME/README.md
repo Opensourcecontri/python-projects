@@ -25,5 +25,5 @@ here is  a demo where updateREADME.py is executed in [scripts](../../scripts) fo
 ![Image](./demo/preview.png)
 
 ---
-[ Sirish C ](https://github.com/SirishC)
+[ Sirish C ](https://github.com/SirishC)<br>
 Happy coding 🤟
